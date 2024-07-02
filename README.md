@@ -1,4 +1,4 @@
-👋 Hi, I’m @RIGUETEPH2
+👋 Hi, I’m @RIGUETEPH2 
 👀 I’m interested in virar um programador renomado
 🌱 I’m currently learning limguagem C
 💞️ I’m looking to collaborate on qualquer ambiente pelo inicio
