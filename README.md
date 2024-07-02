@@ -2,7 +2,7 @@
 
 👀 I’m interested in virar um programador renomado
 
-🌱 I’m currently learning limguagem C
+🌱 I’m currently learning linguagem C
 
 💞️ I’m looking to collaborate on qualquer ambiente pelo inicio
 
