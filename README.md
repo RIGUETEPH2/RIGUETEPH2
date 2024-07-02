@@ -1,10 +1,15 @@
 👋 Hi, I’m @RIGUETEPH2 
+
 👀 I’m interested in virar um programador renomado
+
 🌱 I’m currently learning limguagem C
+
 💞️ I’m looking to collaborate on qualquer ambiente pelo inicio
+
 📫 How to reach me
 Instagram=@ph_riguete
  +55 (028)999534886
+
 ⚡ Fun fact:tenho 20 anos estou cursando analise e desenvolvimento de sistema e estou precisando de estagio ou serviços para cobrir custos na minha faculdade.
 
 <!---
